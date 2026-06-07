@@ -62,7 +62,8 @@ Relógio inteligente que exibe hora em tempo real, data, dia da semana em portug
 ## 📸 Fotos do Projeto
 
 ### Tela de Inicialização
-> <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3e3ff330-112f-4b10-8c40-4c14df8c3268" />
+> <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/44fd814c-5413-47b8-ac54-30dcff0640a6" />
+
 
 
 ### Display em funcionamento
